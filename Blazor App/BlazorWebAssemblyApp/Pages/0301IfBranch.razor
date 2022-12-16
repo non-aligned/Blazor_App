@@ -1,0 +1,86 @@
+﻿@page "/0301IfBranch"
+
+<PageTitle>Minimum</PageTitle>
+<h1>Minimum</h1>
+<p>
+You can try to enter integers, real numbers and texts that are not numbers at all.
+</p>
+<table>
+    <tr>
+        <td>First argument:</td>
+        <td><input style="text-align:right" @bind="x"/></td>
+    </tr>
+    <tr>
+        <td>Second argument:</td>
+        <td><input style="text-align:right" @bind="y"/></td>
+    </tr>
+    <tr>
+        <td>Third argument:</td>
+        <td><input style="text-align:right" @bind="z"/></td>
+    </tr>
+    <tr>
+        <td>Fourth argument:</td>
+        <td><input style="text-align:right" @bind="w"/></td>
+    </tr>
+    <tr>
+        <td>Fifth argument :</td>
+        <td><input style="text-align:right" @bind="a"></td>
+    </tr>
+    <tr>
+        <td style="text-align:center" colspan="2">
+            <button @onclick="Minimum">Determine Minimum</button> &nbsp; 
+             <button @onclick="Maximum">Determine Maximum</button>
+        </td>
+    </tr>
+    <tr>
+        <td>Result:</td>
+        <td><input style="text-align:right" @bind="result"/></td>
+    </tr>
+    
+    
+</table>
+<br/>
+@code {
+
+    private double x=0;
+    private double y=-1.5;
+    private double z = 1.5;
+    private double w = 2;
+    private double a = 3;
+    private double result;
+
+    private void Minimum()
+    {
+        System.Console.WriteLine("x: " + x + " y: " + y + " z: " + z + " w: " + w + " a: " + a);
+        double min = x;
+        if (y < min)
+            min = y;
+        if (z < min)
+            min = z;
+        if (w < min)
+            min = w;
+        if (a < min)
+            min =a;
+        result = min;
+        System.Console.WriteLine("Minimum for x, y, z, w, a: " + min);
+        System.Console.WriteLine();       
+    }
+    private void Maximum()
+    {
+        System.Console.WriteLine("x: " + x + " y: " + y + " z: " + z + " w: " + w + " a " + a);
+        double max = x;
+        if  (y > max)
+            max = y;
+        if (z > max)
+            max = z;
+        if (w > max)
+            max = w;
+        if (a > max)
+            max = a;
+        result = max;
+        System.Console.WriteLine("Maximum for x, y, z, w, a: " + max);
+        System.Console.WriteLine();
+
+
+    }
+}

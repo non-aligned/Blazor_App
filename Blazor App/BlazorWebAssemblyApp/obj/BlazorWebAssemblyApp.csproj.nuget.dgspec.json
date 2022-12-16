@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Classes\\Documents\\GitHub\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj": {}
+    "C:\\Users\\Classes\\Documents\\GitHub\\Blazor_App\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Classes\\Documents\\GitHub\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj": {
+    "C:\\Users\\Classes\\Documents\\GitHub\\Blazor_App\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+        "projectUniqueName": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor_App\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
         "projectName": "BlazorWebAssemblyApp",
-        "projectPath": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
+        "projectPath": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor_App\\Blazor App\\BlazorWebAssemblyApp\\BlazorWebAssemblyApp.csproj",
         "packagesPath": "C:\\Users\\Classes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor App\\BlazorWebAssemblyApp\\obj\\",
+        "outputPath": "C:\\Users\\Classes\\Documents\\GitHub\\Blazor_App\\Blazor App\\BlazorWebAssemblyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Classes\\AppData\\Roaming\\NuGet\\NuGet.Config"
