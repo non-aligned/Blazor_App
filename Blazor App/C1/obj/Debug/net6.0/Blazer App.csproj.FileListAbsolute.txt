@@ -1,0 +1,5 @@
+C:\Users\Classes\Documents\GitHub\Blazer App\C1\obj\Debug\net6.0\Blazer App.csproj.AssemblyReference.cache
+C:\Users\Classes\Documents\GitHub\Blazer App\C1\obj\Debug\net6.0\Blazer App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classes\Documents\GitHub\Blazer App\C1\obj\Debug\net6.0\Blazer App.AssemblyInfoInputs.cache
+C:\Users\Classes\Documents\GitHub\Blazer App\C1\obj\Debug\net6.0\Blazer App.AssemblyInfo.cs
+C:\Users\Classes\Documents\GitHub\Blazer App\C1\obj\Debug\net6.0\Blazer App.csproj.CoreCompileInputs.cache
