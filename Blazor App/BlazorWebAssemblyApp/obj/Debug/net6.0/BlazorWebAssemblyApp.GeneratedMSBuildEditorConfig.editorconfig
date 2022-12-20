@@ -22,16 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/0301IfBranch.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcMDMwMUlmQnJhbmNoLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IfBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWZCcmFuY2gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Index.razor]
