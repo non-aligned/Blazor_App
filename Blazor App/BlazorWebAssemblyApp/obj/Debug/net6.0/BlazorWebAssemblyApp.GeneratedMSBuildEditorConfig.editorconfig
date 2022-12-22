@@ -11,57 +11,73 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorWebAssemblyApp
 build_property.RootNamespace = BlazorWebAssemblyApp
-build_property.ProjectDir = C:\Users\Classes\Documents\GitHub\Blazor_App\Blazor App\BlazorWebAssemblyApp\
+build_property.ProjectDir = c:\Users\Classes\Documents\GitHub\Blazor_App\Blazor App\BlazorWebAssemblyApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Classes\Documents\GitHub\Blazor_App\Blazor App\BlazorWebAssemblyApp
+build_property.MSBuildProjectDirectory = c:\Users\Classes\Documents\GitHub\Blazor_App\Blazor App\BlazorWebAssemblyApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/App.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Counter.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/FetchData.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IfBranch.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/homework.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaG9tZXdvcmsucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IfBranch.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWZCcmFuY2gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Index.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IfElseBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWZFbHNlQnJhbmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IfElseBranchGuessing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWZFbHNlQnJhbmNoR3Vlc3NpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/InputOutput.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/InputOutput.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5wdXRPdXRwdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IntOperators.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/IntOperators.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50T3BlcmF0b3JzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/In_n_out.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/In_n_out.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5fbl9vdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/SurveyPrompt.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Pages/SwitchBranch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3dpdGNoQnJhbmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/_Imports.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/MainLayout.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a0retx75oi
 
-[C:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/NavMenu.razor]
+[c:/Users/Classes/Documents/GitHub/Blazor_App/Blazor App/BlazorWebAssemblyApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9i7d68iwnd
