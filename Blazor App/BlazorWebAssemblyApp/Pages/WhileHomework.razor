@@ -1,0 +1,87 @@
+@page "/WhileHomework"
+
+<PageTitle>WhileHomework</PageTitle>
+<h1>Sum and Double Factorial</h1>
+<br/>
+<table>
+    <tr>
+        <td>Argument:</td>
+        <td>
+            <input style="text-align: right;" @bind="num"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;" colspan="2">
+            <button title="by forward counting" @onclick= "SumByCountForward">Sum</button>&nbsp;
+            <button title="by backward counting" @onclick= "SumByCountBackward">Sum</button>&nbsp;
+            <button title="by forward counting" @onclick= "DoubleFactorialCountForward">Double Factorial</button>&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>@num &Sigma;:</td>
+        <td><input style="text-align: right;" @bind="result"/></td>
+    </tr>
+</table>
+<br/>
+
+@code {
+
+    private int num =1;
+
+    private long result = 0;
+
+    private void SumByCountForward()
+    {
+        int n = num;
+        if(n<0)
+        {
+            result = long.MinValue;
+            return;
+        }
+        int i = 0;
+        long sum = 0;
+        while (i <= n)
+        {
+            sum = sum + i;
+            i++;
+        }
+        result = sum;
+    }
+
+    private void SumByCountBackward()
+    {
+        int n = num;
+        if(n<0)
+        {
+            result = long.MinValue;
+            return;
+        }
+        int i =  num;
+        long sum = 0;
+        while (i>0)
+        {
+            sum = sum + i;
+            i--;
+        }
+        result = sum;
+    }
+
+    private void DoubleFactorialCountForward()
+    {
+        int n = num;
+        if(n<0)
+        {
+            result = long.MinValue;
+            return;
+        }
+        int i = 1;
+        long dbl = 0;
+        while(i<=n)
+        {
+            dbl = dbl * i;
+            i=i-2;
+        }
+        result = dbl;
+
+    }
+}
